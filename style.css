@@ -1,0 +1,155 @@
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+  }
+ 
+  #navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  .bg-conatiner{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height:100vh;
+  }
+ 
+  .text{
+    font-family:"roboto";
+    font-size:60px;
+  }
+ .text-paragraph{
+    font-family:"roboto";
+    font-size:30px
+  }
+  .main-heading{
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 5px;
+
+  }
+  .main-text{
+    padding-left:12px;
+    font-size: 20px;
+  }
+  .food-container{
+    padding: 40px;
+    border-style: solid;
+    border-color: beige;
+    border-radius: 16px;
+  }
+  .wcu-text{
+    font-size: 20px;
+  }
+  .offers   {
+    font-weight: bold;
+  }
+.menu-card{
+  border-style: solid;
+  border-color: beige;
+
+}
+.img-cards{
+  border-radius:10px;
+}
+  .menu-img-card{
+   width: 90%;
+   border-radius:8%;
+   padding-top:15px;
+  }
+  .span-text{
+    font-size: 12px;
+  }
+.fresh-image{
+  width: 85%;
+ padding: 15px;
+}
+.card-text{
+  padding: 10px;
+  font-size: 28px;
+  font-weight: bold;
+}
+.food-description-text{
+  padding: 10px;
+  font-size: 17px;
+
+}
+.food-button{
+  background-color:orange;
+  border-radius: 5px;
+  height:35px;
+  width: 130px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  font-weight: 450;
+  font-size: 13px;
+  border-width: 0px;
+  color: white;
+}
+.discount-image{
+  width: 80%;
+  margin-top: 26px;
+}
+.delivery-section-heading{
+  margin-top:10px;
+  font-size: 25px;
+}
+.delivery-section-description{
+
+  font-size: 15px;
+}
+.custom-button{
+  background-color:orange;
+  border-radius: 5px;
+  height:35px;
+  margin-bottom: 10px;
+  font-weight: 450;
+  font-size: 13px;
+  border-width: 0px;
+  color: white;
+  width: 130px;
+}
+.payment-card-img {
+  width: 40px;
+  height: 40px;
+  margin-right: 28px;
+}
+.thankyou-section{
+  background-color:  #d0b2001a;
+}
+.thankyou-section-heading{
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.thanking-customers-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.thanking-customers-section-img {
+  width: 270px;
+  margin-bottom: 20px;
+}
+.reedem-button{
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
